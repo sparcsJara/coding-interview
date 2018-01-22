@@ -1,4 +1,4 @@
-## 첫번째 문제 : Linked-List
+## 첫번째 문제 : Linked-List를 거꾸로 하자
 
 1) linked-list의 자료구조와 push() 함수를 구현하세요.
 2) 5개를 element를 push 하세요.
